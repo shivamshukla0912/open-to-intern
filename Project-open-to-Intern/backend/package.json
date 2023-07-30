@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunandasharma61/intern-Project.git"
+    "url": "git+https://github.com/shivamshukla0912/intern-Project.git"
   },
-  "author": "Sunanda Sharma",
+  "author": "Shivam Shukla",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunandasharma61/intern-Project.git"
+    "url": "https://github.com/shivamshukla0912/intern-Project.git"
   },
-  "homepage": "https://github.com/sunandasharma61/intern-Project.git",
+  "homepage": "https://github.com/shivamshukla0912/intern-Project.git",
   "dependencies": {
     "body-parser": "^1.20.1",
     "express": "^4.18.2",
